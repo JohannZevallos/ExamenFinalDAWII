@@ -15,8 +15,8 @@ spring:
       client:
         registration:
           google:
-            client-id: 
-            client-secret:	
+            client-id: 185362406973-8om2mrdk2uf7uvs18c5r58nquses44em.apps.googleusercontent.com
+            client-secret: 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
             scope: profile, email
             redirect-uri: "{baseUrl}/login/oauth2/code/google"
             client-name: Google
